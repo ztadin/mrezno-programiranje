@@ -1,0 +1,5 @@
+Pitanje: što radi linija koda client_socket.connect((host,port))?
+Odgovor: client se spaja na remote socket s addresom(host, port)
+
+Pitanje: U serverskom dijelu vašeg programa, što znači drugi broj u zagradama kod ispisa „Got connection…“? 
+Odgovor: Port od clienta
